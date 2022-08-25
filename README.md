@@ -146,7 +146,7 @@ Don’t forget to run $ npm install when you have the package.json
 # Tasks
 
 **0. Redis utils**
-File: [utils/redis.js](utils/redis.js/) - [main.js](main.js/)
+File: [utils/redis.js](utils/redis.js/) 
 
 Inside the folder utils, create a file redis.js that contains the class RedisClient.
 
